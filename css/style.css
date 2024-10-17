@@ -1,0 +1,51 @@
+.nav-bar {
+  background-color: rgb(8, 120, 90);
+  padding: 1px;
+  border-radius: 3px;
+}
+.nav-bar ul {
+  text-align: center;
+}
+.list-nav {
+  display: inline;
+  margin: 2%;
+}
+
+.list-nav a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+footer {
+  max-height: 20vh;
+  background-color: rgb(8, 120, 90);
+  padding: 2%;
+  margin-bottom: 0;
+  border-radius: 2px;
+  text-decoration: none;
+  display: flex;
+  justify-content: flex-e;
+}
+
+.sections {
+  min-height: 30vh;
+  /* margin: 30px;  */
+}
+.sections {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.ft { margin-top: 2%;
+  display: flex;
+  justify-content: baseline;
+}
+
+.inputForm{
+    display:inline-block
+}
